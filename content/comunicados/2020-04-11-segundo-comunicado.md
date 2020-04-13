@@ -3,7 +3,7 @@ Slug: 2020-04-11-segundo-comunicado
 Date: 2020-04-11
 Category: Comunicados
 
-Reporte Oficial
+**Reporte Oficial**
 
 11/04/2020
 
