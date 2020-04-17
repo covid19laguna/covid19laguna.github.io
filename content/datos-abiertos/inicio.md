@@ -1,5 +1,5 @@
 Title: Datos abiertos
-Slug: datos-abiertos-inicio
+Slug: inicio
 Date: 2020-04-16 20:00
 Category: Datos Abiertos
 
