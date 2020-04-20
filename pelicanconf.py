@@ -22,14 +22,14 @@ AUTHOR = 'webmaster'
 PATH = 'content'
 
 # Directorios que tienen los articulos
-ARTICLE_PATHS = ['comunicados']
+ARTICLE_PATHS = ['comunicados', 'reportes']
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = ['datos-abiertos', 'quienes-somos']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
-STATIC_PATHS = ['comunicados', 'datos-abiertos', 'quienes-somos',
+STATIC_PATHS = ['comunicados', 'datos-abiertos', 'quienes-somos', 'reportes',
                 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt']
 
 # NO usar el directorio como la categoria
